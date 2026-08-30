@@ -1,0 +1,18 @@
+# Python y Entornos Virtuales
+.venv/
+venv/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code e IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Archivos de la Semana 2 y 3 (excluidos del repositorio inicial)
+WEEK2.md
+WEEK3.md
